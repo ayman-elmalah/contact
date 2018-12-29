@@ -15,5 +15,12 @@
         "psr-4": {
             "AymanElmalah\\Contact\\": "src/"
         }
+    },
+    "extra": {
+      "laravel": {
+          "providers": [
+              "AymanElmalah\\Contact\\ContactServiceProvider"
+          ]
+      }
     }
 }
