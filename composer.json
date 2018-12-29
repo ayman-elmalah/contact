@@ -1,0 +1,19 @@
+{
+    "name": "ayman-elmalah/contact",
+    "description": "Sending mail to admin and saving it at database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ayman Elmalah",
+            "email": "aymanelmalah77@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AymanElmalah\\Contact\\": "src/"
+        }
+    }
+}
