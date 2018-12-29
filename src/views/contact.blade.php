@@ -5,7 +5,7 @@
     <title>Contact page</title>
   </head>
   <body>
-    <h1>Contact page</h1>
+    <h1>Contact page !!</h1>
     <form class="" action="{{ route('contact') }}" method="post">
       @csrf
       <input type="text" name="name" placeholder="Insert your name">
